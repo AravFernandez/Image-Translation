@@ -31,12 +31,3 @@
 10. [License](#license)
 
 ---
-
-## Installation
-
-```bash
-git clone https://github.com/AravFernandez/Image-Translation.git
-cd Image-Translation
-python3 -m venv venv
-source venv/bin/activate  # On Windows use venv\Scripts\activate
-pip install -r requirements.txt
