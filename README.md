@@ -16,18 +16,3 @@
   - Visualize interpretable explanations for model decisions.
 
 ---
-
-## Table of Contents
-
-1. [Installation](#installation)  
-2. [Dataset Preparation](#dataset-preparation)  
-3. [Model Training](#model-training)  
-4. [Evaluating and Tracking Performance](#evaluating-and-tracking-performance)  
-5. [Explainability (XAI)](#explainability-xai)  
-6. [Standalone Image Translation](#standalone-image-translation)  
-7. [Custom/External Inputs](#customexternal-inputs)  
-8. [Results Gallery](#results-gallery)  
-9. [References](#references)  
-10. [License](#license)
-
----
